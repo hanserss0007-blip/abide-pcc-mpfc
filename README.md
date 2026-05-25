@@ -32,4 +32,4 @@ See `code/requirements.txt`.
 
 ## Contact
 
-Yaowu Li — yaowul@example.com
+Yaowu Li — hanserss0007@gmail.com
